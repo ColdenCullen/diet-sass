@@ -1,0 +1,9 @@
+{
+    "name": "example",
+    "description": "Using vibe.d with diet-sass.",
+    "dependencies": {
+        "vibe-d": "~>0.7",
+        "diet-sass": { "path": ".." }
+    },
+    "versions": [ "VibeDefaultMain" ]
+}
