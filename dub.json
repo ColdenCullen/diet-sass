@@ -1,6 +1,6 @@
 {
     "name": "diet-sass",
-    "description": "Diet filter plugin for coffescript.",
+    "description": "Diet filter plugin for SASS.",
     "copyright": "Copyright © 2014, Colden Cullen",
     "license": "MIT",
     "authors": [ "Colden Cullen" ],
