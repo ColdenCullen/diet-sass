@@ -25,10 +25,3 @@ string filterSass( string script, size_t indent )
 
     return res.data;
 }
-
-unittest
-{
-    import std.algorithm;
-    assert( filterCoffee( "3 + 2", 1 ).canFind( "3 + 2" ) );
-    assert( filterCoffee( "foo = (a) -> 2 * a", 1 ).canFind( "foo = function(a)" ) );
-}
